@@ -21,7 +21,7 @@ list_of_files = [
     "dvc.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb"
+    "research/trails.ipynb",
 ]
 
 
